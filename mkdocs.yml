@@ -1,0 +1,17 @@
+site_name: Neural League 5v5
+site_description: Documentation for the 3D Multi-Agent Reinforcement Learning Soccer Environment
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: teal
+    accent: cyan
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Usage Guide: usage.md
+  - API Reference: api.md

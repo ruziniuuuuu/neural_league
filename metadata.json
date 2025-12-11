@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Neural League",
+  "description": "A gymnasium-compatible, aesthetically pleasing multi-agent soccer simulation environment with reinforcement learning interfaces.",
+  "requestFramePermissions": []
+}
